@@ -66,5 +66,9 @@ Order Completion: Automatically clears the list for the next customer after savi
 | price_per_unit| Decimal | Price of the item at time of purchase |
 | subtotal | Decimal | Calculated as quantity * price_per_unit |
 
+# 📂 Screen Shots
+
+---
+![POS Screenshot](pos.png)
 
    
