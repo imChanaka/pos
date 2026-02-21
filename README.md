@@ -70,5 +70,9 @@ Order Completion: Automatically clears the list for the next customer after savi
 
 ---
 ![POS Screenshot](pos.png)
+![POS Screenshot](pos2.png)
+![POS Screenshot](pos3.png)
+![POS Screenshot](pos4.png)
+![POS Screenshot](pos5.png)
 
    
